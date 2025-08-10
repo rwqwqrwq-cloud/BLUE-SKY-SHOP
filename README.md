@@ -1,1 +1,0 @@
-# BLUE-SKY-SHOP
