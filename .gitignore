@@ -1,4 +1,4 @@
 node_modules/
 .env
-DISCORD_WEBHOOK=https://discord.com/api/webhooks/xxxxxxxxxxxxxxxx
+DISCORD_WEBHOOK=https://discord.com/api/webhooks/1404137440997937344/9SWR6CjebDo8xwsULFIVo2B3EzzZL-DIAoIzBix-oYFUedYjOlAoj0OqYdGyRvP1QqMe
 PORT=3000
